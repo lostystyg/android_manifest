@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remove-project name="LineageOS/android_vendor_lineage" />
+  <project path="vendor/lineage" name="lostystyg/android_vendor_lineage" remote="github" revision="refs/heads/bastyon-0.1" />
+  <project path="vendor/bastyon" name="lostystyg/android_vendor_bastyon" remote="github" revision="refs/heads/bastyon-0.1" />
+</manifest>
